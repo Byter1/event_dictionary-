@@ -1,0 +1,220 @@
+event_name;readable_event_name
+ec.view_item_in_list;Просмотр товара в выдаче
+ec.view_item;Просмотр товара
+ec.view_item_list;Просмотр товаров по 100
+ec.add_to_cart;Добавить в корзину
+ec.view_cart;Просмотр корзины
+ec.remove_from_cart;Удалить из корзины
+ec.add_to_wishlist;Добавить в отложенное
+ec.begin_checkout;2 шаг корзины
+ec.purchase;"Клик ""Заказать"""
+ec.cancel_order;
+QR_T;Тап по QR для получения
+Search_Request_Send;Запрос на поиск
+Search_Empty_Respon;Пустая выдача по поиску
+Auth_Reg_Send;-> код авторизации
+Auth_Reg_Ok;Успешная авторизация
+Auth_Reg_Error;Ошибка входа
+Item_Choose_Color_T;"Тап ""Выбрать цвет"""
+Item_Choose_Color_Search_T;Поиск по цвету
+Item_Choose_Color_Base_T;"Выбор ""подходит для базы"""
+Item_Choose_Color_Cancel_T;Отмена выбора цвета
+Item_Choose_Color_Apl;Выбор цвета товара
+pageview;Просмотр страницы
+user_engagement;30 секунд в приложении
+Main_PulltoRefresh_Swipe;Обновление главной
+Support_Chat_T;Открытие чата поддержки
+Header_LK_T;Переход по пунктам профиля
+Header_T;Тап на раздел хэдера
+Main_DLV_Delete_Ok;Удалить адрес
+Main_DLV_Edit_Ok;Изменить адрес
+Main_Grid_T;Клик по завлекалочке
+Currency_Change_Ok;Изменение валюты
+Complaint_Banner_OK;Жалоба отправлена
+Banner_T;Тап по баннеру
+Main_DLV_T;Выбор места доставки
+Carousel_T;Клик по карусели
+Search_History_Delete;Очистка истории поиска
+Catalog_PulltoRefresh_Swipe;Обновить каталог
+Catalog_CategoriesList_T;Просмотр ?
+Catalog_Category_T;Просмотр категории
+Catalog_SimilarItems_PhotoSearch_T;"Тап ""поиск похожих по фото"""
+Catalog_Auto_Parts_Search_T;"Клик ""подобрать автозапчасти"""
+Catalog_Auto_Parts_Search_Empty_Response;Пустая выдача подобора
+Item_Filter_S;Просмотр характеристики в КТ
+Item_Filter_Apl;Выбор характеристики в КТ
+Item_Share_T;"""Поделиться"" в КТ"
+Item_SimilarItems_PhotoSearch_T;"""поиск похожих по фото"" в КТ"
+Item_Offers_Multicard_T;Тап по другому товару
+Item_Offers_Multicard_All_T;"Тап ""все"" с другими товарами"
+Item_Offers_Multicard_Close_T;Закрыть другие предложения
+Item_Video_Icon_T;"Тап ""видео"""
+Item_Photo_T;"Тап ""фото"""
+Item_Proven_Quality_T;"Клик ""подтвержденное качество"""
+Item_Seller_Info_GoToShop_T;"Тап ""в магазин продавца"""
+Item_AuctionBanner_T;Переход на промо страницу
+Item_SizeTable_T;Определить размер в КТ
+Item_SizeTable_Size_Selection_T;Выбор размера в КТ
+Item_SizeTable_Filter_T;Клик на фильтр таблице размеров
+Item_SizeTable_Filter_Apl;Примерение фильтров в таблице размеров
+Item_Seller_Info_T;"Тап ""инфа о продавце"""
+Item_Brand_Photo_T;Переход в бренд КТ
+Item_Brand_Name_T;Тап по бренду КТ
+Item_Parameters_More_T;"Тап ""ещё"" параметры в КТ"
+Item_Description_More_T;"Тап ""ещё"" описание в КТ"
+Item_Description_Parameters_More_T;"Клик ""Все параметры и описание"""
+Item_Description_Parameters_More_Tab_T;"Тап ""Характеристики""/""Описание"""
+Item_Feedback_Scroll;Скролл отзывов в КТ
+Item_Question_T;Переход в вопросы КТ
+Item_Question_Send;Вопрос к товару отправлен
+Item_Feedback_Claim_Send;Отправлена жалоба на товар
+Item_Feedback_Like_T;"""+"" отзыву"
+Item_Feedback_Dislike_T;"""-"" отзыву"
+Item_Similar_Product_Link_T;"Тап ""нашли похожий в Wb?"""
+Item_All_Brand_T;"Тап ""Все товары бренда"""
+Item_Brand_Category_T;Тап по категориии бренда
+Item_Category_T;Тап по категории товара
+Item_Services_T;Клик на услугу в КТ
+Item_Feedback_PhotoAdd_T;Загрузка фото в отзыв
+Item_Feedback_PhotoDelete_T;Удаление фото из отзыва
+Item_Feedback_Only_Photos_T;Клик на отзывы с фото
+Item_Feedback_All_T;Клик на отзывы
+Item_Feedback_Evaluations_T;Клик на оценки
+Item_Feedback_GiveFeedback_Send;Отправка отзыва
+Item_Feedback_GiveFeedback_More_T;"Клик ""..."" в товарах для отзывов"
+Item_Feedback_GiveFeedback_Remove;Удалить возможность оценить товар
+Item_Feedback_Sort_T;Клик на сортировку
+Item_Feedback_Photo_Carousel_T;Клик на карусель фото в отзыве
+Item_Feedback_Photo_Carousel_All;Клик по стрелке ко всем фото отзывов
+Item_Feedback_Photo_Carousel_Close;Выход из карусели фото из отзывов
+Item_Feedback_Sort_Apl;Применение сортировки
+Item_Digital_Read_T;"Клик ""читать"""
+Item_Digital_Listen_T;"Клик ""слушать"""
+Item_Supplier_T;Клик на поставщика в КТ
+Item_Detailed_Review_T;"Клик ""подробный обзор"""
+Item_Offers_From_Other_Seller_T;"Клик по товару из ""от других продавцов"""
+Item_Offers_From_Other_Seller_All_T;Клик по всем предложениям
+Item_Offers_From_Other_Seller_Close_T;Закрыть предложения других продавцов
+Item_Offers_From_Other_Seller_Wrong_Item;"Отправка ""Не тот товар"""
+Item_Offers_From_Other_Seller_Similar_Item;"Клик ""Нашли такой же товар?"""
+Item_Medical_Info_T;"Клик ""Сведения о продавцах лекарств"""
+Item_Credit_Info_PopUp_T;"Клик ""подробнее"""
+Item_Delivery_Details_T;Клик на информацию о доставке в КТ
+Item_Search_Tags_T;Клик на тег из списка в КТ
+Item_ArticleNumber_Copy;Копирование артикула
+Item_Name_More_T;"Клик на ""..."" (полное название товара)"
+Item_Split_Mark_T;"Тап по ""частями"""
+Item_Feedback_Variant_Item_T;Клик по nm в отзывах
+Item_Feedback_Video_All_T;Клик на раздел видео в отзывах
+Item_Feedback_Video_T;Клик на видео
+Item_Feedback_Form_VideoAdd_T;Успешная загрузка видео в отзыв
+Item_Feedback_Form_VideoDelete_T;Успешное удаление видео из отзыва
+Cart_Pay_Dept_Ok;Успешная оплата долга в корзине
+Cart_Pay_Dept_Error;Ошибка оплаты долга в корзине
+Cart_Share_T;поделиться товаром из корзины
+Cart_Carousel_Button_T;"Клик на ""берут вместе"" в корзине"
+Checkout_DLV_Edit_T;Тап на изменение доставки при оформлении
+Checkout_PayMethod_T;Тап на список способов оплаты
+Checkout_PayMethod_AddCard_Ok;Успешное добавление карты
+Checkout_DLV_Edit_CRR_Choose_T;Выбор адреса доставки: курьер
+Checkout_DLV_Edit_PUP_Choose_T;Выбор адреса доставки: самовывоз
+Checkout_DLV_Edit_PUP_Delete_T;Успешное удаление адреса ПВЗ
+Checkout_DLV_Edit_Address_Slt;Подтвердил выбор адресата/пвз
+Checkout_DLV_Edit_CRR_Add_OK;Успешное добавление адреса (курьер)
+Checkout_DLV_Edit_PUP_Add_OK;Успешное добавление нового пвз
+Checkout_PayMethod_ScanCard_NFC_Ok;Успешное сканирование NFC
+Checkout_PayMethod_ScanCard_NFC_Error;Ошибка при сканировании NFC
+Checkout_Order_Button_T;"Клик ""заказать"" при оформлении"
+Checkout_Open_Wallet_T;"Тап ""Откр Wb кошелек"""
+Checkout_Bottom_Wallet_Ok;Успешное открытие кошелька
+TYP_Digital_Service_T;"Тап по услуге ""Пригодится к покупкам"""
+Wishlist_Item_DeleteButton_T;Удален из Отложенные
+Wishlist_Item_Delete_Ok;"Удален из ""Отложенные"" после тапа ""УДАЛИТЬ"""
+Wishlist_Item_DeleteMultiSelect_Ok;Мультиселект удалеие отложенного
+Wishlist_MyGroups_Group_Delete_Ok;Успешное удаление группы в отложенном
+DLV_Search_T;поисковый результат
+DLV_OrderStatus_T;Нажатие на статус доставки
+DLV_OrderStatus_Details_T;"Нажатие ""Еще n статусов"""
+DLV_CRR_Call;Нажатие звонка курьеру
+DLV_Map_T;Нажатие адрес ПВЗ
+DLV_Address_Copy;Скопировать адрес
+DLV_Feedback_PUP_T;Оценка пвз
+DLV_Payment_Details_T;Нажатие детализация оплаты
+DLV_Dept_PayMethod_Pay_Ok;Успешная оплата долга
+DLV_Dept_PayMethod_Pay_Error;Ошибка при оплате долга
+DLV_Warning_PaidDelivery_T;Тап предупрежедение об оплате за невостребованные товары
+DLV_Address_Add_Ok;Добавить адрес доставки
+Change_Delivery_OK;"тапнул на ""Да, привезти...."" + подтверждение изменения срока доставки"
+Change_Delivery_Error;"тапнул на ""Да, привезти...."" + уведомление об ошибке"
+Purchases_Item_More_Return_T;"клик ""..."" вернуть товар"
+Chat_Attachment_Send;Отправка вложения в чат
+Support_Chat_FirstMessage_Send;Первое сообщение в чат
+BrandPage_AddFavourite_T;Сохранить в Любимые_бренды
+Brand_Additional_Info_T;Клик доп. инфа о бренде
+BrandPage_RemoveFavourite_T;Удалить из Любимых Брендов
+Favourite_Brand_T;"Тап ""Любимые бередны"" в ЛК"
+Favorites_V;Просмотр избранного
+Favorites_Brands_V;"Просмотр ""любимые бренды"" в избранном"
+Favourite_Brand_T;"Переход в ""Любимые бренды"" из ЛК"
+Favorites_Empty_Catalog_T;?
+Favorites_Tab_T;переключение между табами в избранном
+Favorites_Empty_Main_Page_T;Переход на главную из избранного
+Favorites_Search_T;Поиск в разделе избранного
+Favorites_Sort_Apl;Применение сортировки
+Favorites_Item_Delete;Удаление товаров из избранного
+Favorites_Similar_Items_T;Тап поиск похожих у товара в избранном
+Favourite_Seller_T;Клик на продавцы в избранном в ЛК
+Notification_Main_T;Клик по нотификации
+Notification_T;Клик по нотификации
+Notification_Share;Поделился кодом через кнопку
+Push_T;"Клик на Push ""Заказ не оформился/ ""Оплата не прошла/Заказ оплачен"""
+Alert_Main_Update_Required_T;"""Обновить"" на алерте об обязательном обновлении"
+Alert_Main_Update_Optional_T;"""Обновить"" на алерте о НЕобязательном обновлении"
+Alert_Access_Notifications_OK;"Алерт ""включите уведомления"" - разрешение"
+Alert_Access_Notifications_Deny;"Алерт ""включите уведомления""- запрет"
+Alert_Adult_Confirmation_Yes_T;ответ Да
+Alert_Adult_Confirmation_No_T;ответ Нет
+Alert_Authorization_Required_T;"Тап на алерте ""Войти"""
+Alert_Authorization_Required_Close;"""Закрыть"" на алерте"
+LK_Notifications_Bell_T;Тап на колокольчик в ЛК
+MyData_Logout_T;Клик на выход из аккаунта ч/з мои данные
+LK_MyCards_Default_T;"""Сделать основной"" в ЛК"
+LK_DLV_T;"""Доставки"" в ЛК"
+LK_MyCards_T;"""Мои карты"" в ЛК"
+LK_MyCards_Change_Method_Split_T;"""Изменить способ оплаты частями"""
+LK_Purchases_T;Нажатие на покупки в ЛК
+LK_Notifications_T;Нажатие на уведоления в ЛК
+LK_Favorites_T;Нажатие на избранное в ЛК
+LK_Refunds_T;Нажатие на возвраты в ЛК
+LK_RefundRegistration_T;Нажатие на оформление возврата в ЛК
+LK_Finance_T;Нажатие на финансы в ЛК
+LK_WaitingList_T;Нажатие на лист ожидания в ЛК
+LK_ItemQuestions_T;Нажатие на вопросы в ЛК
+LK_Feedback_T;Нажатие на отзывы в ЛК
+LK_Header_Favorites_T;Нажатие на избранное в хэдере ЛК
+LK_Wishlist_T;Нажатие на отложенное в ЛК
+LK_eCheck_T;Нажатие на чеки в ЛК
+LK_ItemExamination_T;Нажатие на проверка товара в ЛК
+LK_AskQuestion_T;Нажатие на задать вопрос в ЛК
+LK_AskQuestion_AllQuestions_T;"""Все обращения"" в задать вопрос в ЛК"
+LK_AskQuestion_Archive_T;"""Архив"" в задать вопрос в ЛК"
+LK_Requests_T;"""Обращения"" в ЛК"
+LK_Header_Purchases_T;Нажатие на покупки в хэдере ЛК
+LK_Header_Requests_T;"""Обращения"" в хэдере ЛК"
+LK_Header_Feedback_T;"""Отзывы и вопросы"" в хэдере ЛК"
+Сurrency_Change_Ok;"Валюта выбрана
+"
+LK_Vacancies_WB_T;"Клик ""Вакансии Wildberries"" -> vsemrabota.ru"
+LK_Internal_Screen_T;Переход на внутренний экран в ЛК
+LK_Split_T;"""Оплата частями"" в хэдере ЛК"
+MyBalance_History_T;"Список операций по тапу ""Все операции"""
+MyBalance_Certificate_Apl;Рез-т добавления сертификата
+MyBalance_TopUp_Ok;Успешно завершили пополнение
+MyBalance_WithdrawOut_Ok;Успешно завершили вывод
+MyBalance_TopUp_Error;Ошибка пополнения средств
+MyBalance_WithdrawOut_Error;Ошибка вывода средств
+MyBalance_Block_Savings_T;Раскрытие/скрытие плашки с предложением о вкладе
+MyBalance_Notice_T;Тап по уведомлению
+MyBalance_Notice_Close;Закрытие уведомления на х
+MyBalance_Limit_Ok;Успешное увеличении лимита
+MyBalance_Limit_Error;Ошибка увеличения лимита
